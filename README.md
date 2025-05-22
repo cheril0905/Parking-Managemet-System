@@ -35,19 +35,6 @@ A C-based simulation of a smart car parking lot system that efficiently manages 
     - Frequency of occupancy
     - Revenue generated
 
----
-
-## 🏁 Allocation Policy
-
-| Membership Tier | Parking Space Range |
-|-----------------|---------------------|
-| Golden          | 1 - 10              |
-| Premium         | 11 - 20             |
-| No Membership   | 21 - 50             |
-
-Nearest available spot from respective range is allocated.
-
----
 
 ## 🧠 Data Structures Used
 
@@ -55,6 +42,7 @@ Nearest available spot from respective range is allocated.
 - **Structures** for storing vehicle and parking space data
 
 ---
+Note- The txt files are only for testing puprose data is not consistent 
 
 
 
